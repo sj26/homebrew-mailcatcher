@@ -3,7 +3,7 @@
 ## install from this repo
 
 ```sh
-$ brew install sj26/homebrew-mailcatcher/mailcatcher
+$ brew install sj26/mailcatcher/mailcatcher
 ```
 
 ## launchd
